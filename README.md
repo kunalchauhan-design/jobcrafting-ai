@@ -1,0 +1,180 @@
+# <img src="components/imgg/whitelogo.png" alt="Job Crafting Logo" width="55" align="center"/> Job Crafting
+
+<p align="left">
+  <strong>AI-Powered Career Alignment Platform</strong>
+</p>
+
+<p align="left">
+  Helping people find work that matches their skills, values, and ambitions through AI, NLP, and organizational psychology.
+</p>
+
+---
+
+## 🌟 Vision
+
+Imagine waking up tomorrow excited to go to work.
+
+Not because you have to — but because your role fits your strengths, your company reflects your values, and your team energizes you.
+
+**Job Crafting transforms careers from something people tolerate into something they genuinely enjoy.**
+
+We believe talent shouldn't be wasted and potential shouldn't be ignored.
+
+---
+
+## 🚀 What Job Crafting Does
+
+### 🎯 Smart Job Matching
+
+Uses AI to connect users with opportunities that align with their:
+
+* Skills
+* Experience
+* Interests
+* Career aspirations
+* Personal values
+
+### 🤖 AI Career Coach
+
+Provides personalized guidance to help users:
+
+* Identify growth opportunities
+* Improve career decisions
+* Build long-term career plans
+
+### 📄 CV & Resume Optimization
+
+Analyzes and improves resumes using AI-driven feedback to increase visibility and relevance.
+
+### 🧠 Psychology-Driven Approach
+
+Built on principles of organizational psychology to promote:
+
+* Employee satisfaction
+* Engagement
+* Career fulfillment
+* Better workplace fit
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** React + Vite
+* **Backend:** Node.js
+* **AI:** Google Gemini
+* **NLP:** Custom AI Processing
+* **Styling:** Tailwind CSS
+
+---
+
+## 📋 Requirements
+
+* Node.js v18+
+* Google Gemini API Key
+* FireBase API Key
+
+Get them here:
+
+https://aistudio.google.com/
+https://console.firebase.google.com/
+---
+
+## ⚙️ Environment Variables
+
+Create a `.env` file in the project root:
+
+```env
+VITE_GEMINI_API_KEY=your_gemini_key_here
+VITE_FIREBASE_API_KEY=your_firebase_key_here
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/AounYoussef/JobCrafting.git
+cd JobCrafting
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start development server
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 🎯 Mission
+
+Our mission is simple:
+
+> Help every individual discover work that aligns with who they are, not just what they can do.
+
+---
+## 📸 Screenshots
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+<p align="center">
+  <img src="README-assets/Dashboard.png" width="500"/>
+</p>
+
+### 🔎 Job Finder
+<p align="center">
+  <img src="README-assets/Job_Finder.png" width="500"/>
+</p>
+
+### 📄 AI CV Studio
+<p align="center">
+  <img src="README-assets/AI_CV_Studio.png" width="500"/>
+</p>
+
+### 🧠 Career Advisor
+<p align="center">
+  <img src="README-assets/Career_Advisor_AI.png" width="500"/>
+</p>
+
+### 👤 Profile Settings
+<p align="center">
+  <img src="README-assets/Profile_Settings.png" width="500"/>
+</p>
+
+### 🔐 Login
+<p align="center">
+  <img src="README-assets/Login.png" width="500"/>
+</p>
+
+---
+## 🤝 Contributing
+
+Contributions, ideas, and feedback are welcome.
+
+If you'd like to improve Job Crafting, feel free to open an issue or submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<p align="center">
+  <strong>Crafting Careers, Sculpting Success.</strong>
+</p>
