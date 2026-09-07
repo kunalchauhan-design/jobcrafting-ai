@@ -71,7 +71,7 @@ Built on principles of organizational psychology to promote:
 
 * Node.js v18+
 * Google Gemini API Key
-* FireBase API Key
+* Firebase API Key
 
 Get them here:
 
@@ -126,7 +126,6 @@ Our mission is simple:
 > Help every individual discover work that aligns with who they are, not just what they can do.
 
 ---
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
