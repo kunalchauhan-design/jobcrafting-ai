@@ -95,8 +95,8 @@ VITE_FIREBASE_API_KEY=your_firebase_key_here
 ### Clone the repository
 
 ```bash
-git clone https://github.com/AounYoussef/JobCrafting.git
-cd JobCrafting
+git clone https://github.com/kunalchauhan-design/jobcrafting-ai.git
+cd jobcrafting-ai
 ```
 
 ### Install dependencies
