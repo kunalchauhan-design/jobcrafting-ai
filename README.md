@@ -69,9 +69,13 @@ Built on principles of organizational psychology to promote:
 
 ## 📋 Requirements
 
+Before running the project, make sure you have:
+
 * Node.js v18+
+* npm
+* Git
 * Google Gemini API Key
-* Firebase API Key
+* Firebase project and API Key
 
 Get them here:
 
